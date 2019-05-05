@@ -1,6 +1,7 @@
 {
   "name": "helloVapid",
   "vapid": {
+    "site": "c2a624f6-342e-42b2-8343-2269def0cdf6"
   },
   "scripts": {
     "start": "vapid start ."
